@@ -1,0 +1,5 @@
+language: MongoDB
+MongoDB: 
+
+before_script:
+- composer install
