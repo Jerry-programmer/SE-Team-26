@@ -1,0 +1,15 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="author" content="Haotian Yao" />
+    <meta name="keywords" content="pageTest" />
+    <title>Test Page</title>
+  </head>
+
+  <body><!--The main body of the html page, whoich showing the content of the website -->
+ This is the main body conetents of the website. I want to check i can upload this file on my Github.
+  </body>
+</html>
